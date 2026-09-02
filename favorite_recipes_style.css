@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(224, 188, 224);
+    text-align:center;
+}
+
+.content{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+
+.content .box{
+    background-color:rgb(44, 28, 44);
+    color:aliceblue;
+    width:400px;
+    height:auto;
+    border-radius:20px;
+    margin:2%;
+    padding:10px;
+}
+
+.content .box img{
+    border-radius:20px;
+}
+
+li{
+    text-align:justify;
+}
